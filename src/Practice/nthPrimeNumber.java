@@ -15,6 +15,7 @@ public class nthPrimeNumber {
 	    int n=sc.nextInt();
 	    
 	    while (count < n)
+	    	
 	        {
 	          num=num+1;
 	          for (i = 2; i <= num; i++){

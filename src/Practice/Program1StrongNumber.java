@@ -15,7 +15,7 @@ public class Program1StrongNumber {
         int strong=0;
         while(num!=0)
         {
-        	int rem=num%10;
+        	int rem=num%10;  
         	int fact=1;
         	for(int i=1;i<=rem;i++)
         	{

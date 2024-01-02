@@ -21,7 +21,9 @@ public class Program8 {
 		System.out.println();
 			
 		int[] arr3=new int[] {8,7,6,5};
-		
+		for(int i=0; i<arr3.length;i++) {
+			System.out.print(arr3[i]+" ");
+		}
 	}
 
 }
